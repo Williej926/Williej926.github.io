@@ -62,7 +62,18 @@
 	THE SOFTWARE.
 */
 
-
+body {
+ 	background: #151515;										/* Page background */
+ 	color: #fff;														/* Font color */
+ 	padding: 150px;													/* Padding between link blocks and edge */
+ 	font-family: "Museo", "Helvetica Neue", sans-serif;	/* Font */
+ 	text-shadow: rgba(0,0,0,0.6) 1px 1px 0; /* Text Shadow */
+ 
+     background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/r8K5nG9Pxiyh9wvn6/videoblocks-fire-sparks-from-campfire-over-dark-background-loop_rzdceyytg_thumbnail-full01.png");
+    background-color: #cccccc;
+    background-color: #cccccc; */
+ 
+}
 .fullscreen-bg {
     position: fixed;
     top: 0;
